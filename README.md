@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @osmanBoylu
-- 👀 I’m interested in back-end
+- 👀 I’m interested in back-end programming.
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on indie projects
 - 📫 How to reach me osmanboylu92@yandex.com
